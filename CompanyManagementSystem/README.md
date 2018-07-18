@@ -1,0 +1,4 @@
+# CompanyManagementSystem
+北斗企鹅工作室管理系统
+包括部门管理,员工管理,用户管理界面
+利用Mysql数据库实现每个部门的增删改查
